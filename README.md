@@ -37,6 +37,7 @@ This project use the Sequential model implemented with Tensorflow Keras to class
 The model architecture consists of several layers, including convolutional, pooling, and fully connected layers, stacked sequentially using the `Sequential` class from Keras.
 The model was compiled with the `binary_crossentropy` loss function and the `adam` optimizer, and trained on the training data for a specified number of epochs. 
 Here are the model summary: 
+
 ![image](https://github.com/amirsyhmi/Image-Classification-Using-Deep-Learning/assets/141207093/53778675-6887-4536-a354-4756edda3049)
 
 Model Architecure:
