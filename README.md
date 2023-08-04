@@ -39,13 +39,13 @@ The model was compiled with the `binary_crossentropy` loss function and the `ada
 Here are the model summary: 
 
 <p align="center">
-  <img src="https://github.com/amirsyhmi/Image-Classification-Using-Deep-Learning/assets/141207093/53778675-6887-4536-a354-4756edda3049)" alt="Model Summary">
+  <img src="https://github.com/amirsyhmi/Image-Classification-Using-Deep-Learning/assets/141207093/53778675-6887-4536-a354-4756edda3049" alt="Model Summary">
 </p>
 
 Model Architecure:
 
 <p align="center">
-  <img src="https://github.com/amirsyhmi/Image-Classification-Using-Deep-Learning/assets/141207093/252655c9-eed3-4f9a-a445-591adce3e5ad)" alt="Model Architecture">
+  <img src="https://github.com/amirsyhmi/Image-Classification-Using-Deep-Learning/assets/141207093/252655c9-eed3-4f9a-a445-591adce3e5ad" alt="Model Architecture">
 </p>
 
 ## Results
