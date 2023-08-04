@@ -85,6 +85,6 @@ This is images that used to make test the trained model:
 and the predictions results is Positive(Cracks):
 
 <p align="center">
-  <img src="Images/Predictred Class.jpg" alt="Predicted Result">
+  <img src="Images/Predicted Class.jpg" alt="Predicted Result">
 </p>
 
