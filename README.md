@@ -27,7 +27,7 @@ developed model is impactful and may save thousands of lives.
 2. Install the required dependencies.
 
 ## Dataset
-This project uses the Concrete `Crack Images for Classification` dataset, which was obtained from [[Source of Dataset]](https://data.mendeley.com/datasets/5y9wdsg2zt/2). The dataset contains 40000 samples, each consisting of an image and a corresponding label indicating the class of the object in the image. 
+This project uses the Concrete `Crack Images for Classification` dataset, which was obtained from [[Concrete Crack Images for Classification]](https://data.mendeley.com/datasets/5y9wdsg2zt/2). The dataset contains 40000 samples, each consisting of an image and a corresponding label indicating the class of the object in the image. 
 The dataset was preprocessed by [Description of Preprocessing Steps], resulting in a final dataset of 2 samples. The dataset was then split into training and validation sets, with 28000 samples in the training set and 8000 samples in the validation set.
 
 The classes in the dataset are Positive(Cracks) and Negative(Not Cracks), with 20000 samples per class.
